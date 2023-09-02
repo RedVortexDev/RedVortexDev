@@ -9,7 +9,6 @@
 
 <h3 align="left">Fun facts</h3>
 
-* I love [DiamondFire](https://mcdiamondfire.com/)
 * I love to learn new things
 * I am always seeking to start a new project
 * If you don't see GitHub activity, you should assume I'm working on something in [DiamondFire](https://mcdiamondfire.com/)

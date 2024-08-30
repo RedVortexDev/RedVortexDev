@@ -17,7 +17,10 @@ Gonna try to compact this in case you just want to see my repos :P
 * SQL, MongoDB, Git
 
 ## Learning
-* C# (should be similar enough to Java, but I haven't found the right time yet)
+* C# (should be similar enough to Java, but I haven't found the right time)
+* TypeScript (it has some quirks and features I haven't got around learning)
 
 ## Contact
 Talk to me on Discord about anything for any reason might have! **`@bukkit.yml`**
+
+Oh, and check out my [DiamondFire-related website](https://red.dfonline.dev/) coded in Svelte and TypeScript!

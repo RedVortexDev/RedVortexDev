@@ -2,16 +2,10 @@
 Hello!! I'm a Java & Web developer, alongside some others, I love learning and working on projects.
 
 # Languages
-## Web
 * Astro, Vite, Svelte
 * CSS, TailwindCSS, SCSS
-
-## Backend
 * Java (my default language and the one I like the most)
-* JS (Node, Express)
-* Python
-
-## Other
+* JS (Node, Express), Python
 * SQL, MongoDB, Git
 
 ## Learning

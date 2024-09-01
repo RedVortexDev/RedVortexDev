@@ -1,8 +1,6 @@
 # RedVortex
 Hello!! I'm a Java & Web developer, alongside some others, I love learning and working on projects.
 
-Gonna try to compact this in case you just want to see my repos :P
-
 # Languages
 ## Web
 * Astro, Vite, Svelte
@@ -21,6 +19,6 @@ Gonna try to compact this in case you just want to see my repos :P
 * TypeScript (it has some quirks and features I haven't got around learning)
 
 ## Contact
-Talk to me on Discord about anything for any reason might have! **`@bukkit.yml`**
+Talk to me on Discord about anything for any reason you might have! **`@bukkit.yml`**
 
 Oh, and check out my [DiamondFire-related website](https://red.dfonline.dev/) coded in Svelte and TypeScript!

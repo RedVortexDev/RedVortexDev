@@ -1,7 +1,7 @@
 # RedVortex
 Hello!! I'm a Java & Web developer, alongside some others, I love learning and working on projects.
 
-# Languages
+# Proficiencies
 * Astro, Vite, Svelte
 * CSS, TailwindCSS, SCSS
 * Java (my default language and the one I like the most)

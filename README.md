@@ -5,11 +5,10 @@ Hello!! I'm a Java & Web developer, alongside some others, I love learning and w
 * Astro, Vite, Svelte
 * CSS, TailwindCSS, SCSS
 * Java (my default language and the one I like the most)
-* JS (Node, Express), Python
+* C#, JS (Node, Express), Python
 * SQL, MongoDB, Git
 
 ## Learning
-* C# (should be similar enough to Java, but I haven't found the right time)
 * TypeScript (it has some quirks and features I haven't got around learning)
 
 ## Contact

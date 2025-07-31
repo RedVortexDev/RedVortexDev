@@ -1,9 +1,11 @@
 # RedVortex
 Hello! I'm a Java & Web developer, alongside some others.
+* Working for [@MCDiamondFire](https://github.com/MCDiamondFire/)
+* Modding at [@now-this-is-crazy](https://github.com/Now-this-is-crazy/)
 # Toolbox
+* Java
 * Astro, Vite, Svelte
 * CSS, TailwindCSS, SCSS
-* Java (my default language and the one I like the most)
 * C#, JS (Node, Express), TS, Python
 * SQL, MongoDB, Git
 ## Contact

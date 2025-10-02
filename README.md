@@ -2,6 +2,9 @@
 Hello! I'm a Java & Web developer, alongside some others.
 * Working for [@MCDiamondFire](https://github.com/MCDiamondFire/)
 * Modding at [@now-this-is-crazy](https://github.com/Now-this-is-crazy/)
+
+[![Red's Wakapi Stats](https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.dev&username=redvtx&langs_count=5&theme=catppuccin_mocha&custom_title=Language%20By%20Time%20&#40;7d&#41;)](https://wakapi.dev/)
+
 # Toolbox
 * Java
 * Astro, Vite, Svelte

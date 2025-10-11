@@ -14,6 +14,6 @@ Hello! I'm a Java & Web developer, alongside some others.
 ## Contact
 Talk to me on Discord about anything, DMs open! **`@bukkit.yml`**
 
-Private repository count: 25
+Private repository count: 41
 
 Check out my [DiamondFire-related website](https://red.dfonline.dev/) coded in Svelte and TypeScript!

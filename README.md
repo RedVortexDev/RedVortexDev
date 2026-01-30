@@ -12,8 +12,6 @@ Hello! I'm a Java & Web developer, alongside some others.
 * C#, JS (Node, Express), TS, Python
 * SQL, MongoDB, Git
 ## Contact
-Talk to me on Discord about anything, DMs open! **`@bukkit.yml`**
-
-Private repository count: 47
+Discord **`@bukkit.yml`**
 
 Check out my [DiamondFire-related website](https://red.dfonline.dev/) coded in Svelte and TypeScript!
